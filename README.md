@@ -1,6 +1,6 @@
-<img align="center">
-  <img href="https://projecterror.dev/" rel="noopener" target="_blank"><img width="150" src="https://i.tasoagc.dev/c1pD" alt="Material-UI logo">
-</p>
+<div align="center">
+    <img href="https://projecterror.dev" width="150" src="https://i.tasoagc.dev/c1pD" alt="Material-UI logo" />
+</div>
 <h1 align="center">Project Error Utilities</h1>
 
 <div align="center">
@@ -11,7 +11,7 @@ A collection of useful utilities for the v8 ScRT within the CFX platform.
 
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/project-error/pe-utils/master/LICENSE)
 [![npm next package](https://img.shields.io/npm/v/@project-error/pe-utils/latest.svg)](https://www.npmjs.com/package/@project-error/pe-utils)
-![Discord](https://img.shields.io/discord/791854454760013827?label=Our%20Discord)
+[![Discord](https://img.shields.io/discord/791854454760013827?label=Our%20Discord)](https://discord.com/invite/HYwBjTbAY5)
 ![David](https://img.shields.io/david/project-error/pe-utils)
 [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=project-error/pe-utils)](https://dependabot.com)
 </div>
@@ -163,6 +163,8 @@ RegisterCommand(
 
 **TODO: Further Explanations**
 
+## Additional Notes
 
+Need further support? Join our [Discord](https://discord.com/invite/HYwBjTbAY5)!
 
 
